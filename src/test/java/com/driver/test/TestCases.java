@@ -1,5 +1,9 @@
 package com.driver.test;
 
-public class TestCases {
+import org.junit.jupiter.api.Test;
 
+
+public class TestCases {
+    @Test
+    public void TestNGtest(){ }
 }
